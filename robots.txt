@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conathami.github.io/conathami.conathami
+Sitemap: https://conathami.github.io/app/conathami.conathami
+Sitemap: https://conathami.github.io/assets/conathami.conathami
+Sitemap: https://conathami.github.io/css/conathami.conathami
+Sitemap: https://conathami.github.io/includes/conathami.conathami
+Sitemap: https://conathami.github.io/item/conathami.conathami
+Sitemap: https://conathami.github.io/src/conathami.conathami
